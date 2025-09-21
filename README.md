@@ -1,92 +1,82 @@
-```bash
-# Alfred Grøndrup GitHub Profile - Terminal Version
+# 👋 Hi, I'm Alfred Grøndrup
 
-alfred@github:~$ whoami
-Alfred Grøndrup
-alfred@github:~$ pwd
-~/Copenhagen/Developer
-alfred@github:~$ cat bio.txt
-16-year-old student and passionate developer from Copenhagen, Denmark
-I love experimenting with new ideas, building small projects, and learning something new every day.
-I enjoy solving problems step by step and improving my coding skills.
+![Header Image](https://via.placeholder.com/1200x300?text=Alfred+Grøndrup)
 
-alfred@github:~$ ls -lh --group-directories-first
-drwxr-xr-x  2 alfred dev  4.0K Sep 21  AboutMe
-drwxr-xr-x  2 alfred dev  4.0K Sep 21  Projects
-drwxr-xr-x  2 alfred dev  4.0K Sep 21  Experiences
-drwxr-xr-x  2 alfred dev  4.0K Sep 21  Contact
-drwxr-xr-x  2 alfred dev  4.0K Sep 21  Stats
+I'm a 16-year-old student and aspiring developer from Copenhagen, Denmark. I love experimenting with new ideas, building small projects, and learning something new every day.
 
-# About Me / Skills
-alfred@github:~$ cat AboutMe/skills.txt
-Languages: Python, JavaScript, TypeScript, Go
-Frontend: React, Next.js, TailwindCSS
-Backend: Node.js, PayloadCMS
-Database: MongoDB
-Other: Git, Web dev best practices, Server communication
+🌍 Location: Copenhagen, Denmark  
+💻 Passion: Coding, Web Development, Tech Exploration
 
-# Projects
-alfred@github:~$ ls Projects
-AwesomeApp/
-DataVizTool/
-PortfolioWebsite/
-FinnLevinsenApS/
-KliniskTandtekniker/
+---
 
-alfred@github:~$ cat Projects/FinnLevinsenApS/README.md
-Built the official website showcasing accounting services for glaziers, including a documentation page (WIP)
-URL: https://www.finnlevinsen.dk
+## 🛠️ Technologies I Use
 
-alfred@github:~$ cat Projects/KliniskTandtekniker/README.md
-Developed a one-page website showcasing dental technician services in a clean and professional layout
-URL: https://www.klinisktandtekniker.com
+Here are the main technologies I use to build reliable, scalable, and future-ready solutions:
 
-# Experiences
-alfred@github:~$ ls Experiences
-Internship_DanskeBank/
-Job_AxcessNordic/
-Internship_AxcessNordic/
-Job_UtzonPhotos/
-Internship_FinnLevinsen/
-Job_Paperboy/
+<div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+  <img src="https://payloadcms.com/assets/images/payload-logo.png" alt="PayloadCMS" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJS" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
+</div>
 
-alfred@github:~$ cat Experiences/Internship_DanskeBank/README.md
-Frontend Developer Internship, Apr 2025
-Learned modern frontend technologies, corporate workflows, and leadership structures during a week-long internship
+---
 
-alfred@github:~$ cat Experiences/Job_AxcessNordic/README.md
-Web Consultant, Apr 2025 - Present
-Part-time role developing and consulting on web projects
+## 💼 Projects
 
-alfred@github:~$ cat Experiences/Internship_AxcessNordic/README.md
-Data Technician Internship, Oct 2024 - Nov 2024
-Hands-on experience with AI, servers, and support systems
+### Finn Levinsen ApS
 
-alfred@github:~$ cat Experiences/Job_UtzonPhotos/README.md
-IT Support, Feb 2024 - Present
-General IT support, photo editing, email campaigns, and book publishing collaboration
+![Finn Levinsen](https://via.placeholder.com/600x200?text=Finn+Levinsen+ApS)
+Built the official website showcasing accounting services for glaziers with a documentation page (WIP).  
+[Visit Site](https://www.finnlevinsen.dk)
 
-alfred@github:~$ cat Experiences/Internship_FinnLevinsen/README.md
-Developer Internship, Apr 2024
-Introduced to older technologies like COBOL
+### Klinisk Tandtekniker - Pernille Grøndrup
 
-alfred@github:~$ cat Experiences/Job_Paperboy/README.md
-Paperboy, Feb 2022 - Jul 2022
-First work experience, learning responsibility, time management, and professionalism
+![Klinisk Tandtekniker](https://via.placeholder.com/600x200?text=Klinisk+Tandtekniker)  
+Developed a clean, one-page website showcasing dental technician services.  
+[Visit Site](https://www.klinisktandtekniker.com)
 
-# GitHub Stats
-alfred@github:~$ cat Stats/github_stats.txt
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlfredGrondrup&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredGrondrup&layout=compact&theme=radical)
+---
 
-# Contact
-alfred@github:~$ cat Contact/contact.txt
-📧 you@example.com
-💼 https://linkedin.com/in/alfredgrondrup
-🌐 https://alfredgrondrup.dev
+## 🏆 Experience
 
-# Footer
-alfred@github:~$ echo "Thanks for visiting my GitHub profile!"
-Thanks for visiting my GitHub profile!
-alfred@github:~$
-```
+### Frontend Developer Intern · Danske Bank
+
+_Apr 2025_ – _Apr 2025_  
+Gained insights into modern technologies and corporate workflow during a week-long internship.
+
+### Web Consultant · Axcess Nordic
+
+_Apr 2025_ – Present  
+Part-time role assisting with web development and client projects.
+
+### Data Technician Intern · Axcess Nordic
+
+_Oct 2024_ – _Nov 2024_  
+Learned about AI, server communication, and modern support systems.
+
+### IT Support · Utzon Photos
+
+_Feb 2024_ – Present  
+Supporting IT tasks, editing photos, and contributing to creative projects.
+
+### Developer Intern · Finn Levinsen ApS
+
+_Apr 2024_  
+Introduced to legacy technologies such as COBOL.
+
+### Paperboy · FK Distribution A/S
+
+_Feb 2022 – Jul 2022_  
+My first real job taught me time management and professional responsibility.
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/alfredgrondrup/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://twitter.com/alfredgrondrup"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
+  <a href="https://alfredgrondrup.dev"><img src="https://img.shields.io/badge/Website-101010?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="Website"/></a>
+</div>
