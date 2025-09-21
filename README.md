@@ -10,6 +10,7 @@
 
 <h3 align="center">Hi there 👋, I'm Alfred Grondrup</h3>
 <p align="center">Full-stack developer | Open-source enthusiast | Lifelong learner</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AlfredGrondrup&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlfredGrondrup&layout=compact&theme=radical" alt="Top Languages" height="150"/> </p>
 
 ---
 
