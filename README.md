@@ -31,8 +31,10 @@ Backend / CMS: PayloadCMS, Node.js
 Database: MongoDB
 
 Other: Git, Web development best practices, server communication
+```
 
 📁 Projects
+
 <details> <summary>🏢 Finn Levinsen ApS</summary> Built the official website showcasing accounting services for glaziers, including a documentation page (WIP). [Visit Site](https://www.finnlevinsen.dk) </details> <details> <summary>🦷 Klinisk Tandtekniker - Pernille Grøndrup</summary> Developed a one-page website showcasing dental technician services in a clean and professional layout. [Visit Site](https://www.klinisktandtekniker.com) </details>
 💼 Experiences
 <details> <summary>Internship - Frontend Developer · Danske Bank (Apr 2025)</summary> Learned modern frontend technologies, corporate workflows, and leadership structures during a week-long internship. </details> <details> <summary>Job - Web Consultant · Axcess Nordic (Apr 2025 - Present)</summary> Part-time role developing and consulting on web projects. </details> <details> <summary>Internship - Data Technician · Axcess Nordic (Oct 2024 - Nov 2024)</summary> Hands-on experience with AI, servers, and support systems. </details> <details> <summary>Job - IT Support · Utzon Photos (Feb 2024 - Present)</summary> General IT support, photo editing, email campaigns, and book publishing collaboration. </details> <details> <summary>Internship - Developer · Finn Levinsen ApS (Apr 2024)</summary> Introduced to older technologies like COBOL. </details> <details> <summary>Job - Paperboy · FK Distribution A/S (Feb 2022 - Jul 2022)</summary> First work experience, learning responsibility, time management, and professionalism. </details>
