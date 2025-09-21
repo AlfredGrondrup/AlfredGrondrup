@@ -10,9 +10,9 @@ I love experimenting with new ideas and building small projects 🛠️ to learn
 
 I'm still growing my developer skills, but here are some of the technologies I'm currently working with and learning about:
 
-- **Languages:** [e.g., Python, JavaScript, C++]
-- **Frameworks:** [e.g., React, Node.js]
-- **Tools:** [e.g., Git, Docker, VS Code]
+- **Languages:** [Javascript, Typescript]
+- **Frameworks:** [PayloadCMS, NextJS, React, Node.js]
+- **Tools:** [Git, Cursor, VS Code, MongoDB]
 
 ---
 
@@ -21,5 +21,5 @@ I'm still growing my developer skills, but here are some of the technologies I'm
 You can find me on the web at these places:
 
 - **Website:** [alfredgrondrup.dev](https://alfredgrondrup.dev)
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Email:** [Your Email Address]
+- **LinkedIn:** [AlfredGrondrup](https://www.linkedin.com/in/alfred-grondrup-31b750345/)
+- **Email:** [contact@alfredgrondrup.dev](mailto:contact@alfredgrondrup.dev)
