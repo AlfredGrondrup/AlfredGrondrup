@@ -11,7 +11,7 @@ I love experimenting with new ideas and building small projects 🛠️ to learn
 I'm still growing my developer skills, but here are some of the technologies I'm currently working with and learning about:
 
 - **Languages:** [ Javascript, Typescript ]
-- **Frameworks:** [ PayloadCMS, NextJS, React, Node.js ]
+- **Frameworks:** [ PayloadCMS, NextJS, React ]
 - **Tools:** [ Git, Cursor, VS Code, MongoDB ]
 
 ---
