@@ -1,20 +1,18 @@
-### Hi there 👋, I'm Alfred Grondrup!
+# 🧑‍💻 Hi there — I’m **Alfred Grøndrup!** 👋
 
----
+I’m a **student and Copenhagen-based developer** focused on building software, learning new technologies, and growing my skills. I love experimenting with ideas, creating small projects, and solving problems step by step.  
+Fluent in **English and Danish** — both written and spoken.
 
-I'm a 16-year-old student from Copenhagen, Denmark with a passion for coding 💻.
+## 💻 Technologies I Use
 
-I love experimenting with new ideas and building small projects 🛠️ to learn and grow as a developer. I enjoy the challenge of solving problems and am always excited to improve my skills one step at a time 🚀.
+Here are some tools and technologies I’m comfortable with and use regularly:
 
-### 📚 My Toolkit
-
-I'm still growing my developer skills, but here are some of the technologies I'm currently working with and learning about:
-
-- **Languages:** [ Javascript, Typescript ]
-- **Frameworks:** [ PayloadCMS, NextJS, React ]
-- **Tools:** [ Git, Cursor, VS Code, MongoDB ]
-
----
+- **Languages:** JavaScript, TypeScript
+- **Frameworks / Libraries:** React, Next.js
+- **CMS / Platforms:** PayloadCMS
+- **Styling:** TailwindCSS
+- **Databases:** MongoDB
+- **Tools & Deployment:** Git, VS Code, Cursor, Dokploy
 
 ### 💬 Let's Connect
 
